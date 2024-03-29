@@ -1,6 +1,6 @@
 # To-do-list 
 "Our TO-DO list web application is designed to streamline task management, whether you're organizing your daily chores, planning a project, or keeping track of your goals."
-This simple project is a web application for managing daily tasks. #organiser
+ #organiser
 
 This include features such as 
 * ADDING TASKS
