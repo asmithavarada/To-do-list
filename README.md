@@ -7,7 +7,7 @@ This include features such as
 * MARKING TASKS AS DONE (CHECK BOX) with strike-off feature
 * DELETING TASKS
 
-You can clone this repository and it in vscode.
+You can clone this repository and open it in Vscode.
 This respository contains html ,css ,javascript  and few image files 
 
 #simpleprojects #frontend 
